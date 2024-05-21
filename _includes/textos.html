@@ -1,8 +1,8 @@
 <div class="textos">
-  {% assign image_files = site.static_files %}
-  {% for image in image_files %}
-    {% if image.path contains include.path %}
-      {% if image.path contains '.jpg' or image.path contains '.jpeg' or image.path contains '.tiff' or image.path contains 'png' %}
+    {% assign xml_files = site.static_files %}
+    {% for file in xml_files %}
+      {% if file.path contains include.path %}
+        {% if file.path contains '.xml' %}
         <div class="textos-container">
           <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
             <img src="{{ site.baseurl }}{{ image.path }}" alt="" />
