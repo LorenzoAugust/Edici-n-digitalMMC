@@ -1,0 +1,37 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC016</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que Jaime Arias que se siente orgulloso de haber trabajado con María Mercedes Carranza en tan importante empresa como la constituyente y le desea éxitos, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>SANTA FE DE BOGOTA, JULIO 4 DE 1991</head>
+                <head>Doctora</head>
+                <head>MARIA MERCEDES CARRANZA</head>
+                <head>ASAMBLEA NACIONAL CONSTITUYENTE</head>
+                <head>CIUDAD.-</head>
+
+                     <p> Distinguido Compatriota:</p>
+                     <p> Hemos instituido la revolución pacífica con el aporte suyo. Abrimos la puerta del Siglo XXI, en medio de grandes esperanzas. Fue una labor que bien valió la pena por la suerte futura de Colombia, que todos anhelamos. Ahora, esperamos que lo aprobado la historia lo convierta en realidad.</p>
+                     <p> Para mi es motivo de inmenso orgullo, haber compartido con usted este trabajo de modernización y reordenamiento. 
+                     Actuamos con justicia e hicimos justicia.</p>
+                     <p> Sólo me resta desearle nuevo éxitos en esta cápsula del futuro.</p>
+                     <p> Reciba un cordial abrazo, </p> 
+ 
+            </div>
+        </body>
+    </text>
+</TEI>

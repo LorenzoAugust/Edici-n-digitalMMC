@@ -1,0 +1,47 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC015</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es un poema que encomia la labor de María Mercedes Carranza en la ANC, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head> Viva Nuestra Constitución </head>
+                <head> MARIA MERCEDES CARRANZA </head>
+
+                     <p> "Suena la campana</p>
+                     <p> tilín tilín... y como</p>
+                     <p>  sátrapas van renegando;</p>
+                     <p> en tanto aturden en sus oídos</p>
+                     <p> la nueva voz de la esperanza;</p>
+                     <p> ´las demócratas reglas del juego de la </p>
+                     <p> Carta Rectora de leyes de 1991´</p>
+                     <p> Escuchas?... ¡Claro!</p>
+                     <p> !Sí formamos parte de quienes</p>
+                     <p> jalamos las campanas!</p>
+                        
+                     <p> VALORO SU ESFUERZO, SU COMPROMISO</p>
+                     <p>  CON EL PAIS Y LAS GENERACIONES</p>
+                     <p>  VENIDERAS.</p>
+                     <p>  !NO EN VANO FUE NUESTRO APOYO.</p>
+                     <p> NOS HEMOS PUESTO DE PIE!</p>
+                     <p> !VIVA NUESTRA CONSTITUCION!</p>
+                        
+                     <p> FRANCISCO EDUARDO MEJIA LEMA </p> 
+                     <p> Pereira, julio 3 de 1991 </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

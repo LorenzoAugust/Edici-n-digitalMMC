@@ -1,0 +1,44 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC018_FOL001</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que se le comunica a María Mercedes Carranza que el informe sobre la investigación de los sobornos a los miembros de la ANC fue trasladado del despacho del fiscal asignado al del fiscal general, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>REPUBLICA DE COLOMBIA</head>
+                <head>FISCALIA GENERAL DE LA NACION</head>
+                <head>DIRECCION REGIONAL DE FISCALIA</head>
+                <head>SANTA FE DE BOGOTA D.C.</head>
+                <head>OF-DRF-4738</head>
+                <head>Doctora</head>
+                <head>MARIA MERCEDES CARRANZA</head>
+                <head>Fundación Casa de Poesía</head>
+                <head>José Asunción Silva</head>
+                <head>Calle 14 No. 3-41</head>
+                <head>Ciudad</head>
+
+                     <p> En atención a su comunicación del 04 de mayo de 1995 allegada a este Despacho por conducto del señor Fiscal General de la Nación, con relación a la investigación por los presuntos sobornos a los integrantes de la Asamblea Nacional Constituyente, me permito manifestarle que he dado traslado del informe del Fiscal asignado, al Despacho del señor Fiscal General de la Nación para su conocimiento. 
+                    </p>
+                     <p> Cordial saludo. </p> 
+                     <p> CARLOS GUILLERMO CASTRO GUEVARA </p> 
+                     <p> DIRECTOR REGIONAL DE FISCALIAS </p> 
+
+                     <p> 7953 </p> 
+                     <p>alt </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

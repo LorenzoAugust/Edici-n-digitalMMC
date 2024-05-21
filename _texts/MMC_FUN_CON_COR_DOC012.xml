@@ -1,0 +1,39 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC012</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que María Mercedes Carranza solicita que le permitan el ingreso a Antonio Caballero a las sesiones plenarias, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, Junio 13 de 1991</head>
+                <head>Señor Coronel</head>
+                <head>CESAR AUGUSTO RAMIREZ</head>
+                <head>Jefe de Seguridad</head>
+                <head>Asamblea Nacional Constituyente</head>
+                <head>E.  S.  M.</head>
+                     <p> Respetado Coronel:</p>
+                     <p> De la manera más atenta me dirijo a Usted con el fin de solicitarle se sirva permitir el ingreso permanente a las Sesiones Plenarias de la Asamble Nacional Constituyente al periodista ANTONIO CABALLERO con cédula de ciudadanía número 17.127.855 de Bogotá.</p>
+                     <p> Le agradezco de antemano la atención que preste a mi solicitud. </p> 
+                     <p> Cordialmente, </p>
+                     <p> MARIA MERCEDES CARRANZA </p> 
+                     <p> Constituyente </p>
+                     <p> IVAN JARAMILLO PEREZ </p>
+                     <p> Director Administrativo </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

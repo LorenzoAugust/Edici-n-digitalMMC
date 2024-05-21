@@ -1,0 +1,36 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC003</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta de renuncia de María Mercedes Carranza a la revista Credencias que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, febrero 26 de 1991</head>
+                <head>Doctor</head>
+                <head>ROBERTO POSADA</head>
+                <head>Director</head>
+                <head>Revista Credencial</head>
+                <head>En su despacho</head>
+                     <p> Estimado señor director:</p>
+                     <p> Como usted sabe, el pasado 9 de diciembre fui elegida constituyente para trabajar en la Asamblea que sancionará hasta julio próximo. Dentro de ella me ha correspondido desempeñarme en la Comisión Primera la cual, entre otros temas, se va a ocupar de estudiar lo relacionado con el derecho a la información y sus medios.</p>
+                     <p> Por ello me veo obligada a presentarle renuncia a mi trabajo en el Comité Editorial de la revista, pues resulta obvio que mi vinculación a dichi Comité me impediría desde el punto de vista moral pronunciarme en la Comisión sobre el tema de los medios. Creo así interpretar a cabalidad el espíritu del régimen de imcompatibilidades para los constituyentes y acatar el reglamento aprobado por la Asamblea.</p>
+                     <p>Agradezco a usted, y por intermedio suyo a los dirigentes de "Credencial", la oportunidad que me dieron de pariticipar en una empresa tan hermosa como lo es planear y publicar la revista. Deseo que ésta continúe ganando día a día, como lo ha hecho hasta hoy, la credibilidad y el respeto de los lectores colombianos por su calidad, seriedad y buen sentido peridístico.</p>
+                     <p> Reciba un cordial saludo de  </p> 
+                     <p> MARIA MERCEDES CARRANZA </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

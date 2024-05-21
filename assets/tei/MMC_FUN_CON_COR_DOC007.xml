@@ -1,0 +1,40 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC007</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que se resumen los puntos de una conversación con María Mercedes Carranza acerca de la presión de los conglomerados económicos en los medios de comunicación que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, 18 de Marzo de 1991</head>
+                <head>Señora</head>
+                <head>MARIA MERCEDES CARRANZA</head>
+                <head>Ciudad</head>
+                
+                     <p> Estimada María Mercedes :</p>
+                     <p> Estos son algunos de los puntos de los que hablamos en relación con los conglomerados y la información.
+                        Sin duda alguna, el caso más patente es el de la presión del conglomerado económico ante los medios de comunicación, como fué el caso del Grupo Grancolombiano en su veto a El Espectador.</p>
+                        <p>  Hay otros casos, pero todos ellos como no son tan evidentes como el del Grupo Grancolombiano y porque los medios no los han denunciado, podrían prestarse a polémicas infructuosas.</p>
+                        <p>  A mí particularmente, me succedió con la Esso Colombiana la cual suspendió una pauta publicitaria en el Telenoticiero del Medio Día, por haber informado de una sobrefacturación en el combustible de los aviosnes, Obviamente "pataleamos" y nos volvieron a dar la pauta comercial.</p>
+                        <p>  Otro caso es el de las "colas". Todo lo que son gaseosas necesitan indudablemente publicidad para su venta, aunque no ha sucedido en Colombia, la teoría es que si un medio de comunicación está al servicio de una fábrica de gaseosas, este medio podría vetar la publicidad de  la otra, sacándola del mercado.</p>
+                        <p>  En resumen, los medios en manos de conglomerados, pueden no solamente influir en la información, sino a nivel económico podría llegar a quebrar a empresas de la competencia.</p>
+                        <p>  Esto en cuanto a los conclomerados de tipo económico.</p>
+                        <p>  Los conglomerados de tipo informativo, se han evitado en todos los países del mundo, bien sea por legislación ó por ética.</p>
+                        <p>. / . </p> 
+                    
+            </div>
+        </body>
+    </text>
+</TEI>

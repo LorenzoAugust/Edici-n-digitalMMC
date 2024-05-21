@@ -1,0 +1,34 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC009</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que Alfonso López Michelsen invita a María Mercedes Carranza a la reunión de los miembros del Partido Liberal para evaluar su actuación en la ANC, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, Mayo 21 de 1.991</head>
+                <head>Doctora</head>
+                <head>MARIA MERCEDES CARRANZA</head>
+                <head>E.  S.  M.</head>
+
+                     <p> Estimada copartidaria y amiga:</p>
+                     <p> De tiempo atrás ha sido mi deseo volver a intercambiar opiniones con los copartidarios que integran la Asamblea Nacional Constituyente. Me he permitido, en consecuencia invitarlos a ustedes el próximo jueves 23 de Mayo a la 1:00 p.m. en el Salón Guadalupe, Piso 17 del Hotel Tequendama, para una reunión informal destinada a evaluar la situación actual de sus labores dentro del concepto de que el buen éxito de la Asamblea Nacional Constituyente, como lo dije en la reunión que celebramos en el Auditorio de la Dirección, es un compromido del Partido con su personero al frente de la Administración, el Señor Presidente César Gaviria Trujillo.</p>
+                     <p> Grato me sería contar con su presencia y ser partícipe de sus opiniones no solamente en cuanto a la marcha de la Asambla sino en la orientación de nuestro partido. </p>
+                     <p>De usted atentamente servidor y amigo, </p> 
+                     <p> ALFONSO LOPEZ MICHELSEN </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

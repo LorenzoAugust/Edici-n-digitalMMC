@@ -1,0 +1,40 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC010</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que María Mercedes Carranza solicita que se conforme la comisión de Revisión y Estilo y propone a una personas para que hagan parte de ella, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, mayo 21 de 1991</head>
+                <head>Doctores</head>
+                <head>ALVARO GOMEZ HURTADO</head>
+                <head>ANTONIO NAVARRO WOLFF</head>
+                <head>HORACIO SERPA URIBE</head>
+                <head>Presidentes</head>
+                <head>Asamblea Nacional Constituyente</head>
+                <head>En su despacho</head>
+                     <p> Señores presidentes:</p>
+                     <p> Deseo solicitar a ustedes que consideren la posibilidad de nombrar la Comisión de Estilo que deberá encargarse de revisar el articulado de la Constitución desde los puntos de vista gramatical y de redacción.
+                     </p>
+                     <p> Considero conveniente que esta comisión trabaje de acuerdo con la Comisión Codificadora y que lo haga de manera especial sobre los textos que salgan del primer debate de la Asamblea, con el fin de que las variaciones en este sentido sean mínimas después del segundo debate.</p>
+                    <p> Me permito de manera muy respetuosa sugerir para que integren esta comisión los nombres de los             delegatarios Raimundo Emiliani y Alberto Zalamea Costa. Sobra decirles que estoy a sus órdenes para colaborar en este tarbajo en la forma que ustedes consideren oportuna.</p>
+                     <p> Agradezco su atención,  </p> 
+                     <p> MARIA MERCEDES CARRANZA </p> 
+                     <p> Delegataria </p>
+            </div>
+        </body>
+    </text>
+</TEI>

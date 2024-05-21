@@ -1,0 +1,40 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC006</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la petición de la comisión para la vigilancia de televisión de que se tenga en cuenta su propuesta de reforma a los medios de comunicación que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá D.E., 13 de marzo de 1991</head>
+                <head>Señor (a) Constituyente</head>
+                <head>MARIA MERCEDES CARRANZA COLORADO</head>
+                <head>Asamblea Nacional Constituyente</head>
+                <head>Ciudad</head>
+
+                     <p> Muy apreciado (a) señor (a):</p>
+                     <p> En nombre de la Comisión para la Vigilancia de la Televisión, de la manera más comedida me permito acompañar a la presente la propuesta que este organismo presentó en la Secretaría General de la Constituyente en relación con la postura que los allegados de la comunidad han hecho a propósito del lugar que la comunicación social debe ocupar en la nueva carta que regirá el país. </p>
+                     <p> Este aporte es el producto de las reflexiones que la Comisión ha llevado a cabo a lo largo de casi 5 años de servicio a la televisión. Es nuestro deseo que este trabajo sea tenido en cuenta en las consideraciones que usted, Señor Constituyente, hará sobre el tema de las comunicaciones. </p>
+                       
+                     <p> Dios guarde a Usted, </p> 
+                     <p> MONSEÑOR HECTOR GUTIERREZ PABON </p> 
+                     <p> Presidente
+                        Comisión para la Vigilancia de la T.V. </p> 
+                        <p>anexo documento.
+                            /Magnolia. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

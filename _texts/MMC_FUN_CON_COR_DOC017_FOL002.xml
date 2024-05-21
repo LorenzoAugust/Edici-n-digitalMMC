@@ -1,0 +1,24 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC017_FOL002</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que María Mercedes Carranza aclara que la comisión de estilo no hizo modificaciones al Artículo 204, que habla de la elegibilidad del Vicepresidente como Presidente, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                
+                     <p> sentido original del artículo, pues la coma famosa ni quita ni pone nada. ¿De dónde saldría tan peregrina interpretación gramatical? </p>
+                     <p> Reciba un cordial saludo de  </p> 
+                     <p> MARIA MERCEDES CARRANZA </p> 

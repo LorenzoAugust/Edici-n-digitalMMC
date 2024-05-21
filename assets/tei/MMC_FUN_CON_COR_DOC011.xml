@@ -1,0 +1,37 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC011</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que los Presidentes de la ANC dan a conocer quiénes integrarán la Comisión de Revisión y Estilo, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá D.E., 27 de Mayo de 1991</head>
+                <head>Doctores</head>
+                <head>MARIA MERCEDES CARRANZA</head>
+                <head>ALBERTO ZALAMEA COSTA</head>
+                <head>RAIMUNDO EMILIANI ROMAN</head>
+                <head>E. S. D.</head>
+                     <p> Respetados Constituyentes:</p>
+                     <p> Nos permitimos informarles que ustedes fueron elegidos para integrar la Comisión de Revisión y Estilo a que se refiere el artículo 43 de los Reglamentos.</p>
+                     <p> Les agradecemos inmensamente la colaboración tan importante que prestarán al buen resultado de la Reforma Constitucional.</p>
+                     <p> Atentamente,  </p> 
+                     <p> HORACIO SERPA URIBE </p> 
+                     <p> ANTONIO NAVARRO WOLFF </p> 
+                     <p> ALVARO GOMEZ HURTADO </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

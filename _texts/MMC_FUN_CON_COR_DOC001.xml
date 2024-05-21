@@ -1,0 +1,30 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC001</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es un telegrama enviado a María Mercedes Carranza que hace parte del archivo que reposa en el BADAC. Hace parte de la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>202708 BOGOTA CUN CT 89 ABR-18/19 1340</head>
+                <head>MARIA MERCEDES CARRANZA.</head>
+                <head>ASAMBLEA NACIONAL CONSTITUYENTES.</head>
+                <head>BOGOTA CUN.</head>
+                <p> NO SE PREOCUPE POR LOS ALARIDOS DE LOS DUEÑOS DE LOS MONOPOLIOS DE LA INFORMACIÓN. PUNTO. SENCILLAMENTE USTED LES PISO LOS CALLOS MAS SENSIBLES A LAS PRIVILEGIADAS FAMILIAS CANOSSANTOS PASTRANAS, ETCETERA PUNTO LOGICO QUE PROTESTEN PORQUE ASAMBLEA NACIONAL CONSTITUYENTE INTENTE DEMOCRATIZAR EL ESPLENDIDO NEGOCIO PERIODISTICO PUNTO SIGA ADELANTE QUE EL PUEBLO LA RESPALDA. ATENTO SALUDO HUGO CHAVES MANUEL PEREZ APARTADO AEREO 32558 CC 48727763 DE NEIVA CC2902560 DE BOGOTA. </p> 
+                <p> COL 20278 32558 4872763 2902560 </p>
+            </div>
+        </body>
+    </text>
+</TEI>

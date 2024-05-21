@@ -1,0 +1,37 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC008</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que María Mercedes Carranza solicita que se asigne a los constituyentes una cuota para sufragar los gastos de correo que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, abril 3 de 1991</head>
+                <head>Doctores</head>
+                <head>ANTONIO NAVARRO</head>
+                <head>HORACIO SERPA</head>
+                <head>ÁLVARO GÓMEZ</head>
+                <head>Presidentes</head>
+                <head>Asamblea Nacional Constituyente</head>
+                     <p> Señores Presidentes:</p>
+                     <p> En mi calidad de constituyente y como ocurre a todos los demás miembros de la Asamblea, recibo un gran volumen de correspondencia, la cual procuro contestar pues proviene de compatriotas que se dirigen a nosotros para exponer sus inquietudes y propuestas en torno al trabajo que se nos ha encomendado.</p>
+                     <p> Sinembargo, me he encontrado con el problema de que la administración de la Asamblea no dispone de recursos para sufragar los gastos de correo. Hasta el momento he cubierto personalmente dicho gasto. Pero consiero que corresponde a la Asamblea hacerlo, pues toda es correspondencia referida al trabajo que desempeñamos.</p>
+                     <p> Por tanto solicito a ustedes que, con el fin de que podamos cumplir con el gesto elemental de acusar recibo a quienes solicitan de nuestra atención para sus iniciativas, se destine al menos una cuota mínima para cada constituyente con el fin de pagar ese gastos de correo.</p>
+                     <p> Agradezco su atención y les envío un saludo </p> 
+                     <p> MARIA MERCEDES CARRANZA </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

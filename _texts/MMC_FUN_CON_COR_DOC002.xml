@@ -1,0 +1,30 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC002</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es una carta enviada a los presidentes de la Asamblea Nacional Constituyente (Horacio Serpa, Álvaro Gómez, Antonio Navarro Wolf) que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, febrero 13 de 1991</head>
+                <head>H.H. Presidentes</head>
+                <head>Honorables Presidentes:</head>
+                <p> Queremos referirnos a la comunicación que nos envió el director del Archivo Nacional de Colombia, en la que solicita a la Asamblea que al término de nuestras deliberaciones se entregue a ese organismo el archivo que se conforme.</p>
+                <p> Consideramos importante la propuesta por cuanto, en efecto, es al Archivo Nacional a quien corresponde organizar, custodiar y dar para su colsulta el material que resulte del trabajo de la Asamblea. Por tanto y en caso de que lo consideren oportuno, les sugerimos respetuosamente que se den las disposiciones necesarias para que se establezca contactos con el Archivo Nacional con el fin de planear ese trabajo. </p>
+                <p> Agradecemos su atención, </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,40 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC014</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta de los trabajadores de Inravisión a la ANC para que tengan en cuenta su estabilidad laboral a la hora de liquidar el canal, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>CARTA ABIERTA DE LOS TRABAJADORES DE INRAVISIÓN A LA ASAMBLEA NACIONAL CONSTITUYENTE</head>
+                <head>Bogotá, junio 21 de 1991</head>
+                <head>Señores</head>
+                <head>ASAMBLEA NACIONAL CONSTITUYENTE</head>
+                <head>Ciudad</head>
+
+                     <p> Señores Delegatarios:</p>
+                     <p> En la sesión de junio 18 fue aprobado por esa Asamblea el articulado sobre "información y Comunicación", presentado por una Comisión Accidental que elaboró una propuesta final al lado de varias sustitutivas.
+                        Los debates que el tema suscita en el seno de la Asamblea y por fuera de ella, explican que no se hubiera logrado un consenso y que varios puntos sigan dando lugar a controversia: privatización de la Televisión, prestación del servicio, Servicio público, nueva Entidad, dirección de la misma, regulación de la Radio, etc.</p>
+                     <p> Lo que para los trabajadores queda claro es que el texto aprobado ordena la desapación de Inravisión y la futura creación de una nueva Entidad de cuya organización y funciones se ocuparía el Parlamento mediante expedición de Ley. Así las cosas, los trabajadores de Inravisión quedamos en interinidad (palabras del Delegatario Alberto Zalamea) y nuestra estabilidad y conquistas laborales pueden desaparecer también.</p>
+                    <p> Como consideramos que esa no es la intención de la Asamblea, solicitamos respetuosa pero enérgicamente sea incluido, en la segunda vuelta, un parágrafo transitorio que garantice la estabilidad y el respeto a los derechos adquiridos por los trabajadores, como mínimo reconocimiento a la labor que ha permitido la existencia de la Televisión en Colombia.</p>
+                        
+                     <p> Cordialmente, </p> 
+                     <p> ASOCIACION COLOMBIANA DE TRABAJADORES DE TELEVISION </p> 
+                     <p> STELLA CHAPARRO CH.</p> 
+                     <p> Secretario General </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

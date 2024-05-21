@@ -1,0 +1,30 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC013_FOL03</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que María Mercedes Carranza le solicita al Fiscal General que abra investigación por presuntos sobornos, denunciados por un periodista en un libro, a los constituyentes por parte del Cartel de Medellín, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+
+                     <p> Debe definir también los límites entre la responsabilidad ética del periodista y el encubrimiento de consuctas delictivas, pues en ese libro, que constituye un documento público, no se da ninguna prueba que sustente las imputaciones que da a conocer.</p>
+                    <p> Revele además con fechas, lugares, horas y estrategias, los nombres de los autores materiales de numerosísimos delitos cometidos por el Cartel de Medellín. Ignoro, por razones obvias, si de tales hechos tengan información las autoridades, estén ya vinculados a procesos o se hayan producido las sentencias correspondientes. Pero como en su gran mayorías son desconocidos por la opinión pública, los pongo en conocimiento de la Fiscalía para su debida investigación. Para todo ello le envío como material probatorio la citada publicación del señor Edgar Torres Arias. </p>
+                    <p>Agradezco su atención y le envío un saludo</p>   
+                    <p>MARIA MERCEDES CARRANZA</p>  
+                    <p>c.c. 41.319.963 de Bogotá</p> 
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,35 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC003</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que María Mercedes Carranza rechaza la vigilancia de su casa y la escolta que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, marzo 4 de 1991</head>
+                <head>Coronel</head>
+                <head>CESAR AUGUSTO RAMIREZ VASQUEZ</head>
+                <head>Jefe de seguridad</head>
+                <head>Asamblea Nacional Constituyente</head>
+                <head>En su despacho</head>
+                     <p> Coronel Ramírez:</p>
+                     <p> De acuerdo con nuestra conversación telefónica, le reitero que no considero necesario por el momento que se me asigne vigilancia en mi domicilio ni escolta personal. En caso de que más adelante pese una amenaza concreta contra mi persona o contra los miembros de la Asamblea, solicitaré a usted que se me presten esos servicios.</p>
+                     <p> Reciba mis agradecimientos y un saludo  </p> 
+                     <p> MARIA MERCEDES CARRANZA </p> 
+                     <p> Constituyente </p>
+            </div>
+        </body>
+    </text>
+</TEI>

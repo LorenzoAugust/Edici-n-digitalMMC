@@ -1,0 +1,34 @@
+<TEI xmlns= "http://www.tei-c.org/ns/1.0">
+    <teiheader>
+        <!--Aquí van los metadatos del documento-->
+        <fileDesc> 
+            <titlestmt>
+                <title>MMC_FUN_CON_COR_DOC013_FOL02</title>
+             </titlestmt>
+            <publicationstmt> 
+                <p> Codificado por Lorenzo Augusto Almario</p>
+            </publicationstmt>
+                        <sourcedesc>
+                <p>Es la carta en la que María Mercedes Carranza le solicita al Fiscal General que abra investigación por presuntos sobornos, denunciados por un periodista en un libro, a los constituyentes por parte del Cartel de Medellín, que hace parte del archivo que reposa en el BADAC. Está en la serie de función, subserie constituyente y tipo correspondencia. </p>
+            </sourcedesc>
+         </fileDesc>
+    </teiheader>
+
+    <text>
+        <!--Aquí va el texto codificado-->
+        <body>
+            <div>
+                <head>Bogotá, mayo 4 de 1995</head>
+                <head>Doctor</head>
+                <head>ALFONSO VALDIVIESO</head>
+                <head>Fiscal General de la Nación</head>
+                <head>En su despacho</head>
+                     <p> Señor Fiscal:</p>
+                     <p> Me dirijo a usted como ciudadana colombiana y en mi calidad de delegataria de la Asamblea Nacional Constituyente de 1991, con el fin de solicitarle que se abra una investigación sobre supuestos sobornos a los integrantes de dicha Asamblea, por parte del Cartel de Medellín.</p>
+                        <p> Baso mi petición en las afirmaciones que se hacen en el libro Mercaderes de la muerte del periodista Edgar Torres Arias, editado en Bogotá por "Intermedio Editores", el cual puede adquirirse en las librerías del país. En efecto, en la sección gráfica de esa publicación, página 78, puede verse la fotografía del señor Juan Fernando Toro Arango, perteneciente a esa organización delictiva, con el siguiente pie de foto "...Encargado de entregar fuertes sumas de dinero a los miembros de la Asamblea Nacional Constituyente"
+                        El periodista reitera su afirmación con una variación en las páginas 401 y 407 de la citada publicación.</p>
+                        <p>Considero de suma importancia, y lo solicito, que se produzca un pronunciamiento jurídico oficial y definitivo que establezca si tales hechos son falsos o verdaderos. En el primer caso, debe procederse a sancionar al periodista en la forma que ordena la Ley. En el caso de que sean verídicos, los culpables deben ser sancionados también de acuerdo con las disposiciones legales. Dado el carácter genérico de dicha afirmación, que afecta por igual a todos los constituyentes y perjudica el buen nombre de aquellos que, en el desempeño de esa función, nunca recibimos tales dineros, ese pronunciamiento debe dejar en claro quiénes estamos libres de culpa por ese delito y, por consiguiente, quiénes, si los hubo, son responsables.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
