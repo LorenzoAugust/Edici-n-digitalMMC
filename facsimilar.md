@@ -2,7 +2,6 @@
 layout: page
 title: Edición facsimilar
 ---
+Estos son los facsímiles de algunas de las cartas que reposan en el archivo de María Mercedes Carranza en la sección de Constituyente:
 
-Este es un ejemplo de una posible forma de presentar una edición facsimilar usando una galería de imágenes simple:
-
-{% include galeria.html path="C:\Users\pc\Documents\GitHub\Edici-n-digitalMMC\assets\img" %}
+{% include galeria.html path="assets/img" %}
