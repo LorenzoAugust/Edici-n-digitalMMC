@@ -1,14 +1,14 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Plantilla Ed en español # Título del proyecto
-tagline:             'Un tema de Jekyll para ediciones mínimas' # Subtítulo, cambiar de acuerdo con el proyecto
-description:         'Plantilla en español para ediciones mínimas basadas en Ed'
-url:                 'http://minicomp.github.io' # Cambiar por repositorio propio
-baseurl:             '/plantilla-ed' # Cambiar por url de base propia, también cambiar nombre de carpeta del proyecto y repositorio
+title:               María Mercedes Carranza en la Asamblea Nacional Constituyente # Título del proyecto
+tagline:             'Edición Crítica Digital desde el archivo' # Subtítulo, cambiar de acuerdo con el proyecto
+description:         'Una vista de la participación de María Mercedes Carranza en la Asamblea Nacional Constituyente de Colombia de 1991, a través de su archivo y el de la Asamblea'
+url:                 'https://lorenzoaugust.github.io/Edici-n-digitalMMC/' # Cambiar por repositorio propio
+baseurl:             '/Edici-n-digitalMMC' # Cambiar por url de base propia, también cambiar nombre de carpeta del proyecto y repositorio
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: cyan # Puede escogerse una paleta de colores entre las opciones arriba
+color-scheme: magenta # Puede escogerse una paleta de colores entre las opciones arriba
 
 # Permalinks
 permalink: pretty
